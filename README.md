@@ -18,9 +18,9 @@
 </div>
 <br>
 <br>
-<div>
-    <h1 align="center">🛠️Stack🛠️</h1>
-</div>
+
+<h1 align="center">🛠️Stack🛠️</h1>
+
 <div>
     <h2>Backend</h2>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
