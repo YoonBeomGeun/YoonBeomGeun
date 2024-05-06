@@ -72,5 +72,6 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat&logo=Google Drive&logoColor=white"/>
 </div>
+<hr>
 
 ![Beomgeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonbeomgeun&include_all_commits=true&show_icons=true&theme=radical&count_private=true)
