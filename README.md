@@ -77,4 +77,4 @@
 </div>
 <hr>
 
-![Beomgeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonbeomgeun&include_all_commits=true&show_icons=true&theme=radical&count_private=true)
+![Beomgeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonBeomGeun&include_all_commits=true&show_icons=true&theme=radical&count_private=true)
