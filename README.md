@@ -12,9 +12,6 @@
     <li>
         yunbumkun36@naver.com
     </li>
-    <li>
-        https://www.notion.so/ebed0cbc1974436381583d89b59d16e1
-    </li>
 </div>
 <br>
 <br>
