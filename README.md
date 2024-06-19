@@ -7,7 +7,7 @@
 <div>
     <h2>🪪Introduction</h2>
     <li>
-        윤범근(Yoon Beomgeun)
+        윤범근(Yoon BeomGeun)
     </li>
     <li>
         yunbumkun36@naver.com
